@@ -2,33 +2,39 @@
 
 ## About Me
 
-<img src="../" height=250px width=200px>
+<img src="https://github.com/Mithun-2004/Mithun-2004.github.io/blob/main/IMG_20221218_084916.jpg" height=250px width=200px>
 
-Student
-Department of *Mathematics and Computing*
-Freshman at **Indian Institute of Technology, Goa**
+Student  
+
+Department of *Mathematics and Computing*  
+
+Freshman at **Indian Institute of Technology, Goa**  
+
 
 <br>
 <hr>
 <br>
 
 ## Education
-<br>
-| Acadamic Year | Standard | School name |
-| :------ | :------: | -------: |
-| 2018-2019 | 9th Standard | Green Park |
-| 2019-2020 | 10th Standard | Green Park |
-| 2020-2021 | 11th Standard | Sri Chaitanya |
-| 2021-2022 | 12th Standard | Sri Chaitanya |
-| 2023-     | First year | IIT, Goa |
+
+| Acadamic Year | Standard      | School name   |  
+| :-------------| :-----------: | ------------: |   
+| 2018-2019     | 9th Standard  | Green Park    |  
+| 2019-2020     | 10th Standard | Green Park    |  
+| 2020-2021     | 11th Standard | Sri Chaitanya |  
+| 2021-2022     | 12th Standard | Sri Chaitanya |  
+| 2023-         | First year    | IIT, Goa      |  
+
 
 <br>
 <hr>
 <br>
 
 ## Course @IIT Goa
-<br>
-### Spring Semester:
+
+
+### Spring Semester  
+
 
   - **BIO101** : Introductory Biology : *Dr.Sreenath Balakrishnan*   
   - **CS102** : Software tools : *Dr. Clint P George* 
@@ -44,7 +50,9 @@ Freshman at **Indian Institute of Technology, Goa**
 <br>
 <hr>
 <br>
-## Hobbies
+
+## Hobbies 
+
 
   - Playing Cricket.
   - Watching Webseries.
@@ -53,12 +61,16 @@ Freshman at **Indian Institute of Technology, Goa**
 <br>
 <hr>
 <br>
-## Interests
 
-  -Python
-  -Shell Scripting
-  -HTML
-  -CSS
+## Interests
+  
+  
+  - Python
+  - Markdown
+  - HTML
+  - CSS
+  - Bash Scripting
+  
   
 <hr>
   
