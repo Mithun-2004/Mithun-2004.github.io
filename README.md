@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://github.com/Mithun-2004/Mithun-2004.github.io/blob/main/IMG_20221218_084916.jpg" height=250px width=200px>
+<img src="IMG_20221218_084916.jpg" height=250px width=200px>
 
 Student  
 
